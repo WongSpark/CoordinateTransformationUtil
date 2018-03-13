@@ -17,6 +17,9 @@
 
 WGS84转GCJ02的加密算法可以从网上搜索到，经过测试，精度尚可，大概在10m级别（以高德地图为例，使用的数据的原坐标系是WGS84坐标系，经过加密形成的GCJ02坐标系数据）。
 
+#效果预览
+![这里写图片描述](http://img.blog.csdn.net/20170725214238509?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3hoODIwNzY3MTI1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 
 #代码
 ## C#版本
